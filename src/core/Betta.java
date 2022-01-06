@@ -11,4 +11,8 @@ public class Betta {
 	public void methodBetta_1() {
 		System.out.println("methodBetta_1");
 	}
+	
+	public void methodBetta_2() {
+		System.out.println("methodBetta_2");
+	}
 }
